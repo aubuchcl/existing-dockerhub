@@ -6,10 +6,11 @@
       "image": {
         "name": "simplews",
         "origin": {
-          "type": "docker-file",
+          "type": "docker-hub",
           "details": {
-            "context_dir": "/",
-            "build_file": "/Dockerfile"
+            "existing": {
+              "source_id": "641dc8f05efaa0c418a64760"
+            }
           }
         }
       },
