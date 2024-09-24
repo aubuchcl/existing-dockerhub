@@ -8,7 +8,9 @@
         "origin": {
           "type": "docker-hub",
           "details": {
-            "target": "{{image-name}}"
+            "target": "{{image-name}}",
+            "username": "aubuchcl",
+            "token": "{{token}}"
           }
         }
       },
