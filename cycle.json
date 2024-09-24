@@ -8,9 +8,7 @@
         "origin": {
           "type": "docker-hub",
           "details": {
-            "existing": {
-              "source_id": "641dc8f05efaa0c418a64760"
-            }
+            "target": "{{image-name}}"
           }
         }
       },
